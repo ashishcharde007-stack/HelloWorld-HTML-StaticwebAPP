@@ -1,7 +1,10 @@
 {
   "routes": [
     {
-      "route": "/Helloworld.html"
+      "route": "Helloworld.html",
+      "methods": [
+        "get"
+      ]
     }
   ]
 }
